@@ -23,3 +23,8 @@ This project contains the **English (EN) versions** of AI Agent personality core
 | [**Strategy Consulting**](./strategy/) | Corporate positioning, executive briefs, and strategic quickstarts. | 3 |
 | [**Operations & Support**](./support/) | Analytics reporters, infrastructure maintenance, and compliance. | 6 |
 | [**Testing & Quality Assurance**](./testing/) | Accessibility auditing, API performance testing, and collect evidence. | 8 |
+
+## Acknowledgments & Credits
+
+We would like to express our deepest gratitude to the original repository [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents). Most of the AI Agent roles and profiles in this project are adapted, refactored, and converted from their excellent agent descriptions. This project would not have been possible without their foundational contribution to the open-source AI agent community.
+
