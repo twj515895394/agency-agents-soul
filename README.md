@@ -27,4 +27,3 @@ This project contains the **English (EN) versions** of AI Agent personality core
 ## Acknowledgments & Credits
 
 We would like to express our deepest gratitude to the original repository [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents). Most of the AI Agent roles and profiles in this project are adapted, refactored, and converted from their excellent agent descriptions. This project would not have been possible without their foundational contribution to the open-source AI agent community.
-
